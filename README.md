@@ -12,11 +12,11 @@ To write a program to predict the profit of a city using the linear regression m
 
  1. Initialize the parameters (m) and (b) and choose a learning rate (\alpha).
     
- 2.Compute the predicted output (\hat{y} = mx + b) for all data points.
+ 2. Compute the predicted output (\hat{y} = mx + b) for all data points.
  
- 3.Calculate the gradients of the cost function with respect to (m) and (b).
+ 3. Calculate the gradients of the cost function with respect to (m) and (b).
  
- 4.Update (m) and (b) using gradient descent and repeat until convergence.
+ 4. Update (m) and (b) using gradient descent and repeat until convergence.
 
 
 ## Program:
